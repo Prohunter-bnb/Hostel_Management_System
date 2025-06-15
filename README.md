@@ -8,6 +8,7 @@ Student – Can register, view room details, submit complaints or requests, and 
 
 
 
+
 Key features include:
 
 Secure login and role-based dashboards
