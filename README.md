@@ -1,45 +1,64 @@
-# Hostel_Management_System
+# 🏠 Hostel Management System
 
-## 📅 Daily Update - 2025-06-28 16:16:31
+A comprehensive Hostel Management System designed to automate and streamline day-to-day hostel operations. The system supports multiple user roles with secure, role-based access, making it easy to manage students, rooms, payments, visitors, and complaints.
 
-**Today's Information:**
-- **Date:** 2025-06-28 16:16:31
-- **Day:** Saturday
-- **Week:** Week 26 of 2025
-- **Month:** June 2025
-- **Last Updated:** 2025-06-28 16:16:31
-
-## 📊 Project Status
-
-This project is actively maintained and updated daily.
-
-## 🚀 Recent Activity
-
-- README updated automatically on 2025-06-28 16:16:31
-- Project status: Active
-- Maintenance: Daily updates enabled
-
-## 📝 Update History
-
-| Date | Update Type | Description |
-|------|-------------|-------------|
-| 2025-06-28 16:16:31 | Daily Update | README refreshed with current date and status |
-| 2025-06-27 16:16:31 | Daily Update | Previous daily update |
-
-## 🔧 Getting Started
-
-1. Clone this repository
-2. Check the daily updates above
-3. Start working on your project
-
-## 📈 Project Metrics
-
-- **Created:** Auto-generated
-- **Last Modified:** 2025-06-28 16:16:31
-- **Update Frequency:** Daily
-- **Status:** Active and maintained
+**👉 Live Demo:** [http://hostelmanagement.whf.bz/](http://hostelmanagement.whf.bz/)
 
 ---
 
-*This README is automatically updated daily to keep project information current.*
-*Last automated update: 2025-06-28 16:16:31*
+## ✨ Features
+
+- User authentication and role-based access control
+- Student room allocation
+- Hostel fee tracking and payment records
+- Visitor logging
+- Complaint and maintenance request tracking
+- Attendance management
+- Secure password recovery (OTP-based)
+- Responsive, user-friendly interface
+
+---
+
+## 🧩 User Roles
+
+**Admin**
+- Manage all user accounts
+- Approve/reject management accounts
+- Oversee hostel records
+
+**Management**
+- Allocate student rooms
+- Manage student profiles
+- Handle visitor and complaint logs
+- Track maintenance
+
+**Student**
+- View room details
+- Submit complaints
+- Track dues and payments
+- View visitor logs
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MariaDB
+- **Hosting**: Googlihost (`http://hostelmanagement.whf.bz/`)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- PHP 7.x or above
+- MariaDB
+- Web server (XAMPP, WAMP, or similar)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hostel-management-system.git
